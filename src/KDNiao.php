@@ -54,7 +54,7 @@ class KDNiao {
                 return $express['code'] == $code;
             });
             if($express){
-                return current($express)['name'];
+                return current($express);
             }
             return null;
         }
