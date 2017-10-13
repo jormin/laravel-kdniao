@@ -2,8 +2,6 @@
 
 ## 安装
 
- 1. 安装包文件
-
 	``` bash
 	$ composer require jormin/laravel-kdniao
 	```
