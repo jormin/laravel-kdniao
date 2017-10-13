@@ -26,8 +26,6 @@ class KDNiaoServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->singleton('kdniao', function ($app) {
-            return $app->make('Jormin\KDNiao\Libs\KDNiaoLib');
-        });
+        //
     }
 }
