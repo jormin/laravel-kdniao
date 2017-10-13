@@ -45,7 +45,7 @@ class KDNiao {
      * 根据编码反查快递公司
      *
      * @param $code
-     * @return string
+     * @return array|null
      */
     public static function getExpressByCode($code){
         if($code){
