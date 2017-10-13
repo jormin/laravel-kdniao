@@ -1,7 +1,7 @@
 {
     "name": "jormin/laravel-kdniao",
     "type": "library",
-    "description": ":快递鸟APi集成",
+    "description": "快递鸟APi集成",
     "keywords": [
         "Laravel",
         "Jormin",
